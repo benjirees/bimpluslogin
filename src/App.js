@@ -15,7 +15,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route exact path="/projectselect" element={<ProjectSelect />} />
-          <Route exact path="/" element={<ProjectSelect />} />
+          <Route exact path="/bimpluslogin" element={<ProjectSelect />} />
         </Routes>
       </BrowserRouter>
     </div>
