@@ -67,7 +67,7 @@ export default function Login() {
         localStorage.setItem('access_token', response.data.access_token);
         localStorage.setItem('api', JSON.stringify(api));
         // localStorage.setItem('user', JSON.stringify(response['user']));
-        window.location.href = "/projectselect";
+        window.location.href = "/bimpluslogin/projectselect";
       });
     } else {
       swal("Failed", "Login Failed", "error");
