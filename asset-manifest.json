@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bimpluslogin/static/css/main.40b805e5.css",
-    "main.js": "/bimpluslogin/static/js/main.c88e458b.js",
+    "main.js": "/bimpluslogin/static/js/main.8152dea6.js",
     "index.html": "/bimpluslogin/index.html",
     "main.40b805e5.css.map": "/bimpluslogin/static/css/main.40b805e5.css.map",
-    "main.c88e458b.js.map": "/bimpluslogin/static/js/main.c88e458b.js.map"
+    "main.8152dea6.js.map": "/bimpluslogin/static/js/main.8152dea6.js.map"
   },
   "entrypoints": [
     "static/css/main.40b805e5.css",
-    "static/js/main.c88e458b.js"
+    "static/js/main.8152dea6.js"
   ]
 }
