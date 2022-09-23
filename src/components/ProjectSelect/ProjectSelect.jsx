@@ -48,7 +48,7 @@ export default function ProjectSelect() {
   const handleLogout = () => {
     localStorage.removeItem("access_token");
     localStorage.removeItem("api");
-    window.location.href = "/";
+    window.location.href = "/bimpluslogin";
   };
 
   return (
